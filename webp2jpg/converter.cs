@@ -35,7 +35,7 @@ namespace webp2jpg
             foreach (var path_im in path_ims)
             {
                 //load image
-                var image = SixLabors.ImageSharp.Image.Load<Rgb24>(path_im);
+                var image = SixLabors.ImageSharp.Image.Load<Rgba32>(path_im);
                 var name_in = Path.GetFileNameWithoutExtension(path_im);
                 var ext = Path.GetExtension(path_im);
 

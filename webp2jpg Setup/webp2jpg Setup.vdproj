@@ -166,9 +166,9 @@
         "Product"
         {
         "Name" = "8:Microsoft Visual Studio"
-        "ProductName" = "8:webp2jpg Setup"
+        "ProductName" = "8:webp2jpg"
         "ProductCode" = "8:{FBF7BFCE-0A45-4048-A8D4-1572E8310F7F}"
-        "PackageCode" = "8:{AA7A13B8-56A7-4D57-83A3-AF9B7112BA4D}"
+        "PackageCode" = "8:{EAFA8F08-A208-4653-BD5C-C3D4EF83E2A6}"
         "UpgradeCode" = "8:{940A7316-DD30-463F-ABCE-DBAF02C68D96}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -179,7 +179,7 @@
         "Manufacturer" = "8:ky"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
-        "Title" = "8:webp2jpg Setup"
+        "Title" = "8:webp2jpg"
         "Subject" = "8:"
         "ARPCONTACT" = "8:ky"
         "Keywords" = "8:"
@@ -288,7 +288,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_39B2237C6E784709B9EEBE5B8F265DF0"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_5C59208A5E3F4074A6E5BBC8F12FFCC6"
             {
             "Name" = "8:webp2jpg"
             "Arguments" = "8:"
@@ -296,13 +296,13 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_589EFD0019A24EC08077552148653C85"
-            "Folder" = "8:_589EFD0019A24EC08077552148653C85"
-            "WorkingFolder" = "8:_589EFD0019A24EC08077552148653C85"
+            "Target" = "8:_FE0482B5C1D84DEFABE386D03C1F073E"
+            "Folder" = "8:_D0CC07F441AC4149AFE869A4DBE95ED5"
+            "WorkingFolder" = "8:_B7BA24E3A51345B9AF5C4840C398134D"
             "Icon" = "8:"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_97116EB7F15B4B96AB523DE47B568C19"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_9D4844E7BE6A44F2BE89B77457DE45F2"
             {
             "Name" = "8:webp2jpg"
             "Arguments" = "8:"
@@ -310,9 +310,9 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_02DFE7048F374B2BB3208C17D507E7D6"
-            "Folder" = "8:_D0CC07F441AC4149AFE869A4DBE95ED5"
-            "WorkingFolder" = "8:_02DFE7048F374B2BB3208C17D507E7D6"
+            "Target" = "8:_FE0482B5C1D84DEFABE386D03C1F073E"
+            "Folder" = "8:_589EFD0019A24EC08077552148653C85"
+            "WorkingFolder" = "8:_B7BA24E3A51345B9AF5C4840C398134D"
             "Icon" = "8:"
             "Feature" = "8:"
             }
