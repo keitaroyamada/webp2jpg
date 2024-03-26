@@ -10,6 +10,9 @@ using SixLabors.ImageSharp.Formats.Webp;
 
 namespace webp2jpg
 {
+    // update info
+    //26 Mar. 2024: Update the depended package.
+
     internal class converter
     {
         //properties
