@@ -5,8 +5,6 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "webp2jpg", "webp2jpg\webp2jpg.csproj", "{AA3D75AE-2CE0-49F3-90B1-DDDC6B2BEAAC}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "webp2jpg Setup", "webp2jpg Setup\webp2jpg Setup.vdproj", "{81E5792D-6603-40F3-B441-22722DD00891}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,8 +15,6 @@ Global
 		{AA3D75AE-2CE0-49F3-90B1-DDDC6B2BEAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA3D75AE-2CE0-49F3-90B1-DDDC6B2BEAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA3D75AE-2CE0-49F3-90B1-DDDC6B2BEAAC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{81E5792D-6603-40F3-B441-22722DD00891}.Debug|Any CPU.ActiveCfg = Debug
-		{81E5792D-6603-40F3-B441-22722DD00891}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

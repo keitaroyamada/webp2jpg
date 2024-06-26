@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.Formats.Jpeg;
 using SixLabors.ImageSharp.Formats.Webp;
+using SixLabors.ImageSharp.PixelFormats;
 
 namespace webp2jpg
 {
@@ -38,7 +39,8 @@ namespace webp2jpg
             foreach (var path_im in path_ims)
             {
                 //load image
-                var image = SixLabors.ImageSharp.Image.Load<Rgba32>(path_im);
+                //var image = SixLabors.ImageSharp.Image.Load<Rgba32>(path_im);
+                var image = SixLabors.ImageSharp.Image.Load(path_im);
                 var name_in = Path.GetFileNameWithoutExtension(path_im);
                 var ext = Path.GetExtension(path_im);
 
